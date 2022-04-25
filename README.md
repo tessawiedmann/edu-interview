@@ -6,8 +6,7 @@ Diversity and inclusion is one of the major focus points for the EDU team and Mi
 ## Setting the Scene
 We designed this take home challenge to more closely mimic what the job is like day to day. For the purposes of this challenge, imagine the following scenario:
 
->The EDU Team is creating a new product that can keep track of assignments for teachers. So far, the product is only a static list of assignment details. After talking to a lot of teachers, the PM on the team decides that the biggest need for teachers is the ability to filter assignments by due date. A designer takes this spec and gives you the following design:
-
+The EDU Team is creating a new product that can keep track of assignments for teachers. So far, the product is only a static list of assignment details. After talking to a lot of teachers, the PM on the team decides that the biggest need for teachers is the ability to filter assignments by due date. A designer takes this spec and gives you the following design:
 
 > ![This is an image](design.png)
 > "Currently we only have a static list of assignments. Please add one input field for Start Date, and one input field for End Date. When clicked, a calendar picker should appear to select dates. These date fields should automatically filter the assignment list."
