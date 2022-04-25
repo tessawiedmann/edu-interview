@@ -15,14 +15,14 @@ Now it's your job to start implementing this new feature!
 This repo includes everything you should need to get started
 1. Make sure you have [Node.js v14.17.0 or higher installed](https://nodejs.org/en/download/)
 2. Clone the repo
-3. Run `Yarn install` to install the necessary packages
-4. Run `Yarn dev` to run the project locally 
+3. Run `yarn install` to install the necessary packages
+4. Run `yarn dev` to run the project locally 
 
 ## Logistics
 - Please spend no more than 2 hours on this challenge. Feel free to document anything you didn't get time to implement.
 
 - You are encouraged to use the open source components from Fluent UI. You can find the [documentation here](https://developer.microsoft.com/en-us/fluentui#/controls/web). Feel free to change, edit, or add anything in the repo, including using other open source resources.
 
-- At least 12 hours before your scheduled interview, please send the hiring manager a link to your repo with your changes. A public repo link is preferred if possible.
+- At least 12 hours before your scheduled interview, please send the hiring manager a public link to your repo with your changes.
 
 - During at least one of your interviews, we will walk through your implementation together. Good luck!
