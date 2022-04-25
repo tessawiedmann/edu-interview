@@ -21,7 +21,7 @@ This repo includes everything you should need to get started
 4. Run `yarn dev` to run the project locally 
 
 ## Logistics
-- Please spend no more than 2 hours on this challenge. Feel free to document anything you didn't get time to implement.
+- Please spend no more than 2 hours on this challenge. Feel free to document anything you didn't get time to implement. _Completely_ optional if you have extra time: you are welcome to add any other features you can think of
 
 - You are encouraged to use the open source components from Fluent UI. You can find the [documentation here](https://developer.microsoft.com/en-us/fluentui#/controls/web). Feel free to change, edit, or add anything in the repo, including using other open source resources.
 
